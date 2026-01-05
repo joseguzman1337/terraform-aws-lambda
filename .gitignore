@@ -1,2 +1,6 @@
 .terraform/
 *.tfstate*
+
+# macOS system files
+.DS_Store
+._*
